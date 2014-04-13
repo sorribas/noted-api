@@ -1,0 +1,22 @@
+{
+  "name": "noted-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Eduardo Sorribas <eduardo@sorribas.org> (http://sorribas.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "param": "^0.3.2",
+    "mongojs": "^0.11.1",
+    "submongojs": "^0.1.4",
+    "mongohooks": "^0.3.0",
+    "root": "^0.7.1",
+    "routil-cookie": "0.0.1",
+    "cookie-signature": "^1.0.3",
+    "seaport": "^2.0.2"
+  }
+}

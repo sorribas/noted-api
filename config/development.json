@@ -1,0 +1,9 @@
+{
+  "mongo": "noted",
+  "secret": "dirtysecret",
+  "port": 4002,
+  "registry": {
+    "host": "localhost",
+    "port": 8000
+  }
+}
