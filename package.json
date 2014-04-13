@@ -15,6 +15,7 @@
     "submongojs": "^0.1.4",
     "mongohooks": "^0.3.0",
     "root": "^0.7.1",
-    "seaport": "^2.0.2"
+    "seaport": "^2.0.2",
+    "noted-session": "0.0.2"
   }
 }
